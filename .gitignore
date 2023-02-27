@@ -1,2 +1,5 @@
 venv/
 .idea/
+main.py
+.pytest_cache
+simpleReport.xml
